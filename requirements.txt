@@ -1,0 +1,7 @@
+socks
+setuptools
+requests
+cloudscraper
+pysocks
+undetected-chromedriver
+PyQt5
